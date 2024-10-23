@@ -1,0 +1,18 @@
+.header-search-bar {
+    width: 100px;
+  }
+  .navbar-right {
+    margin-left: auto;
+  }
+
+  .nav-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+  .navbar-header {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  
